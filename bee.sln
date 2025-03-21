@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PaintGame", "PaintGame\PaintGame.vcxproj", "{05F6A582-FAE6-4ECF-85D9-ADB68CAC1610}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A5D06FEC-7FCB-4AF8-B043-6D92D6B99695} = {A5D06FEC-7FCB-4AF8-B043-6D92D6B99695}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bee", "bee\bee.vcxproj", "{A5D06FEC-7FCB-4AF8-B043-6D92D6B99695}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Application", "Application\Application.vcxproj", "{AE8DA041-148A-4B6B-840F-8A83EB12DE89}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A5D06FEC-7FCB-4AF8-B043-6D92D6B99695} = {A5D06FEC-7FCB-4AF8-B043-6D92D6B99695}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MazeGame", "MazeGame\MazeGame.vcxproj", "{C88F60C7-B804-4F61-8E6F-1F0E06B51A06}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A5D06FEC-7FCB-4AF8-B043-6D92D6B99695} = {A5D06FEC-7FCB-4AF8-B043-6D92D6B99695}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		DebugEditor|x64 = DebugEditor|x64
+		Release|x64 = Release|x64
+		ReleaseEditor|x64 = ReleaseEditor|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05F6A582-FAE6-4ECF-85D9-ADB68CAC1610}.Debug|x64.ActiveCfg = Debug|x64
+		{05F6A582-FAE6-4ECF-85D9-ADB68CAC1610}.Debug|x64.Build.0 = Debug|x64
+		{05F6A582-FAE6-4ECF-85D9-ADB68CAC1610}.DebugEditor|x64.ActiveCfg = DebugEditor|x64
+		{05F6A582-FAE6-4ECF-85D9-ADB68CAC1610}.DebugEditor|x64.Build.0 = DebugEditor|x64
+		{05F6A582-FAE6-4ECF-85D9-ADB68CAC1610}.Release|x64.ActiveCfg = Release|x64
+		{05F6A582-FAE6-4ECF-85D9-ADB68CAC1610}.Release|x64.Build.0 = Release|x64
+		{05F6A582-FAE6-4ECF-85D9-ADB68CAC1610}.ReleaseEditor|x64.ActiveCfg = ReleaseEditor|x64
+		{05F6A582-FAE6-4ECF-85D9-ADB68CAC1610}.ReleaseEditor|x64.Build.0 = ReleaseEditor|x64
+		{A5D06FEC-7FCB-4AF8-B043-6D92D6B99695}.Debug|x64.ActiveCfg = Debug|x64
+		{A5D06FEC-7FCB-4AF8-B043-6D92D6B99695}.Debug|x64.Build.0 = Debug|x64
+		{A5D06FEC-7FCB-4AF8-B043-6D92D6B99695}.DebugEditor|x64.ActiveCfg = DebugEditor|x64
+		{A5D06FEC-7FCB-4AF8-B043-6D92D6B99695}.DebugEditor|x64.Build.0 = DebugEditor|x64
+		{A5D06FEC-7FCB-4AF8-B043-6D92D6B99695}.Release|x64.ActiveCfg = Release|x64
+		{A5D06FEC-7FCB-4AF8-B043-6D92D6B99695}.Release|x64.Build.0 = Release|x64
+		{A5D06FEC-7FCB-4AF8-B043-6D92D6B99695}.ReleaseEditor|x64.ActiveCfg = ReleaseEditor|x64
+		{A5D06FEC-7FCB-4AF8-B043-6D92D6B99695}.ReleaseEditor|x64.Build.0 = ReleaseEditor|x64
+		{AE8DA041-148A-4B6B-840F-8A83EB12DE89}.Debug|x64.ActiveCfg = Debug|x64
+		{AE8DA041-148A-4B6B-840F-8A83EB12DE89}.Debug|x64.Build.0 = Debug|x64
+		{AE8DA041-148A-4B6B-840F-8A83EB12DE89}.DebugEditor|x64.ActiveCfg = DebugEditor|x64
+		{AE8DA041-148A-4B6B-840F-8A83EB12DE89}.DebugEditor|x64.Build.0 = DebugEditor|x64
+		{AE8DA041-148A-4B6B-840F-8A83EB12DE89}.Release|x64.ActiveCfg = Release|x64
+		{AE8DA041-148A-4B6B-840F-8A83EB12DE89}.Release|x64.Build.0 = Release|x64
+		{AE8DA041-148A-4B6B-840F-8A83EB12DE89}.ReleaseEditor|x64.ActiveCfg = ReleaseEditor|x64
+		{AE8DA041-148A-4B6B-840F-8A83EB12DE89}.ReleaseEditor|x64.Build.0 = ReleaseEditor|x64
+		{C88F60C7-B804-4F61-8E6F-1F0E06B51A06}.Debug|x64.ActiveCfg = Debug|x64
+		{C88F60C7-B804-4F61-8E6F-1F0E06B51A06}.Debug|x64.Build.0 = Debug|x64
+		{C88F60C7-B804-4F61-8E6F-1F0E06B51A06}.DebugEditor|x64.ActiveCfg = DebugEditor|x64
+		{C88F60C7-B804-4F61-8E6F-1F0E06B51A06}.DebugEditor|x64.Build.0 = DebugEditor|x64
+		{C88F60C7-B804-4F61-8E6F-1F0E06B51A06}.Release|x64.ActiveCfg = Release|x64
+		{C88F60C7-B804-4F61-8E6F-1F0E06B51A06}.Release|x64.Build.0 = Release|x64
+		{C88F60C7-B804-4F61-8E6F-1F0E06B51A06}.ReleaseEditor|x64.ActiveCfg = ReleaseEditor|x64
+		{C88F60C7-B804-4F61-8E6F-1F0E06B51A06}.ReleaseEditor|x64.Build.0 = ReleaseEditor|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C7F1DF0-DFEE-4342-80E8-F52AFF3E55F5}
+	EndGlobalSection
+EndGlobal

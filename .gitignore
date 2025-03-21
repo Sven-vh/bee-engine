@@ -1,0 +1,22 @@
+
+.vs
+.vscode
+*.log
+intermediate/
+tidy/
+**/__pycache__/
+
+inspector.json
+
+# Ignore any files generated out of the Learning Log markdown files.
+evidence/_site
+evidence/GemFile.lock
+
+build/
+executable/
+
+#ingore build folders
+bin/
+bin-int/
+/code/bee-engine-start/lib
+*.TMP

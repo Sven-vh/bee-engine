@@ -1,0 +1,377 @@
+{
+    "entityCount": 6,
+    "entityID": 6,
+    "hasComponent_Camera": true,
+    "Camera": {
+        "fov": 45.0,
+        "aspectRatio": 1.6529351472854615,
+        "nearClip": -1000.0,
+        "farClip": 100.0,
+        "orthographic": true,
+        "orthoSize": 22.700000762939454,
+        "renderMode": 0
+    },
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": " Camera",
+        "parent": 4294967295,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 19.036136627197267,
+            "value1": 0.0,
+            "value2": 21.697154998779298
+        },
+        "rotation": {
+            "value0": 0.11388382315635681,
+            "value1": 0.8818438649177551,
+            "value2": 0.2740798890590668,
+            "value3": -0.3664178252220154
+        },
+        "scale": {
+            "value0": 1.0000003576278687,
+            "value1": 1.0,
+            "value2": 1.0000003576278687
+        },
+        "rotationEuler": {
+            "value0": 145.46917724609376,
+            "value1": -45.12705993652344,
+            "value2": 180.0
+        }
+    },
+    "entityID": 5,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Maze",
+        "parent": 4294967295,
+        "children": [
+            14680065
+        ],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.5,
+            "value1": 0.5,
+            "value2": 0.5
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 4,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Level",
+        "parent": 4294967295,
+        "children": [
+            3,
+            2
+        ],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 99.0,
+            "value1": 99.0,
+            "value2": 99.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 3,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": true,
+    "DirectionalLight": {
+        "color": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        }
+    },
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Directional Light",
+        "parent": 4,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": -0.43838879466056826,
+            "value1": -0.4066797196865082,
+            "value2": -0.37041324377059939,
+            "value3": 0.710788905620575
+        },
+        "scale": {
+            "value0": 0.999998152256012,
+            "value1": 0.9999990463256836,
+            "value2": 0.9999992251396179
+        },
+        "rotationEuler": {
+            "value0": -48.496124267578128,
+            "value1": -64.54150390625,
+            "value2": -23.29645347595215
+        }
+    },
+    "entityID": 2,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Scene Data",
+        "parent": 4,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": false,
+    "hasComponent_Renderable": false,
+    "hasComponent_SceneData": true,
+    "SceneData": {
+        "skyColor": {
+            "value0": [
+                0.49000000953674319,
+                0.5,
+                0.5299999713897705,
+                0.75
+            ],
+            "value1": [
+                {
+                    "value0": 0.6200000047683716,
+                    "value1": 0.6200000047683716,
+                    "value2": 0.6200000047683716,
+                    "value3": 1.0
+                },
+                {
+                    "value0": 0.9259999990463257,
+                    "value1": 0.9629999995231628,
+                    "value2": 1.0,
+                    "value3": 1.0
+                },
+                {
+                    "value0": 0.32499998807907107,
+                    "value1": 0.5440000295639038,
+                    "value2": 0.8970000147819519,
+                    "value3": 1.0
+                },
+                {
+                    "value0": 0.3409999907016754,
+                    "value1": 0.47099998593330386,
+                    "value2": 0.6779999732971191,
+                    "value3": 1.0
+                }
+            ]
+        },
+        "ambientColor": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 0.5
+        }
+    },
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 14680065,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Cube",
+        "parent": 5,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "bee\\editor\\assets\\models\\cube.obj",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 0.5,
+            "value1": 0.5,
+            "value2": 0.5
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    }
+}

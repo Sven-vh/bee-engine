@@ -1,0 +1,209 @@
+{
+    "value0": 2,
+    "value1": {
+        "value0": "3D Mesh",
+        "value1": 4294967295,
+        "value2": []
+    },
+    "value2": true,
+    "value3": {
+        "value0": {
+            "value0": -4.769271373748779,
+            "value1": 0.0,
+            "value2": -2.211174726486206
+        },
+        "value1": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "value2": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "value3": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        }
+    },
+    "value4": true,
+    "value5": {
+        "value0": "",
+        "value1": "",
+        "value2": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "value3": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "value4": true,
+        "value5": false
+    },
+    "value6": false,
+    "value7": false,
+    "value8": false,
+    "value9": 1,
+    "value10": {
+        "value0": "Emitter",
+        "value1": 4294967295,
+        "value2": []
+    },
+    "value11": true,
+    "value12": {
+        "value0": {
+            "value0": 0.82979416847229,
+            "value1": 0.0,
+            "value2": -4.631433963775635
+        },
+        "value1": {
+            "value0": -0.5796419978141785,
+            "value1": -0.012339822947978974,
+            "value2": -0.03232225403189659,
+            "value3": 0.8141363859176636
+        },
+        "value2": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "value3": {
+            "value0": -70.83618927001953,
+            "value1": -3.299956798553467,
+            "value2": -2.1999964714050295
+        }
+    },
+    "value13": true,
+    "value14": {
+        "value0": "",
+        "value1": "",
+        "value2": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "value3": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "value4": false,
+        "value5": false
+    },
+    "value15": false,
+    "value16": false,
+    "value17": true,
+    "value18": {
+        "value0": {
+            "value0": 1.0,
+            "value1": 1,
+            "value2": 100,
+            "value3": true,
+            "value4": true,
+            "value5": false,
+            "value6": {
+                "value0": 30.0,
+                "value1": true
+            }
+        },
+        "value1": {
+            "value0": 0.10000000149011612,
+            "value1": 0.10000000149011612,
+            "value2": 0,
+            "value3": false,
+            "value4": {
+                "value0": 0.0,
+                "value1": 0.0,
+                "value2": 0.0
+            },
+            "value5": false,
+            "value6": 1.0,
+            "value7": false,
+            "value8": false,
+            "value9": {
+                "value0": [],
+                "value1": []
+            },
+            "value10": true,
+            "value11": {
+                "value0": [
+                    0.5
+                ],
+                "value1": [
+                    {
+                        "value0": 1.0,
+                        "value1": 0.0,
+                        "value2": 0.0,
+                        "value3": 1.0
+                    }
+                ]
+            },
+            "value12": true,
+            "value13": false,
+            "value14": 1.0,
+            "value15": {
+                "value0": 0.0,
+                "value1": 0.0,
+                "value2": 0.0
+            },
+            "value16": true,
+            "value17": 1.0,
+            "value18": 1.0,
+            "value19": 1.0
+        },
+        "value2": 59
+    },
+    "value19": 0,
+    "value20": {
+        "value0": "Directional Light",
+        "value1": 4294967295,
+        "value2": []
+    },
+    "value21": true,
+    "value22": {
+        "value0": {
+            "value0": -0.7314774394035339,
+            "value1": 0.0,
+            "value2": 1.706740379333496
+        },
+        "value1": {
+            "value0": -0.07661470770835877,
+            "value1": 0.9216633439064026,
+            "value2": -0.2966800034046173,
+            "value3": -0.23800794780254365
+        },
+        "value2": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "value3": {
+            "value0": 215.6863250732422,
+            "value1": -28.95918846130371,
+            "value2": 180.00010681152345
+        }
+    },
+    "value23": false,
+    "value24": true,
+    "value25": {
+        "value0": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "value1": 1.0
+    },
+    "value26": false,
+    "value27": false
+}

@@ -1,0 +1,3538 @@
+{
+    "entityCount": 47,
+    "entityID": 1048697,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/white.png",
+        "multiplier": {
+            "value0": 0.9333333373069763,
+            "value1": 0.4470588266849518,
+            "value2": 0.0784313753247261,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -15.0,
+            "value1": 10.0,
+            "value2": -2.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0030077544506639244,
+            "value2": 0.0,
+            "value3": 0.9999954700469971
+        },
+        "scale": {
+            "value0": 0.9999999403953552,
+            "value1": 1.0,
+            "value2": 2.999999761581421
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.3446637690067291,
+            "value2": 0.0
+        }
+    },
+    "entityID": 1048700,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/white.png",
+        "multiplier": {
+            "value0": 0.9333333373069763,
+            "value1": 0.4470588266849518,
+            "value2": 0.0784313753247261,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -15.0,
+            "value1": 8.0,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.003007753985002637,
+            "value2": 0.0,
+            "value3": 0.9999954700469971
+        },
+        "scale": {
+            "value0": 0.9999997615814209,
+            "value1": 1.0,
+            "value2": 0.9999998211860657
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.34466373920440676,
+            "value2": 0.0
+        }
+    },
+    "entityID": 1048698,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/white.png",
+        "multiplier": {
+            "value0": 0.9333333373069763,
+            "value1": 0.4470588266849518,
+            "value2": 0.0784313753247261,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -15.0,
+            "value1": 6.0,
+            "value2": -2.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0030077544506639244,
+            "value2": 0.0,
+            "value3": 0.9999954700469971
+        },
+        "scale": {
+            "value0": 0.9999999403953552,
+            "value1": 1.0,
+            "value2": 2.999999761581421
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.3446637690067291,
+            "value2": 0.0
+        }
+    },
+    "entityID": 52,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": true,
+    "GltfScene": {
+        "path": "PaintGame/assets/building_C.gltf",
+        "name": "Scene"
+    },
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "building_C.gltf",
+        "parent": 4294967295,
+        "children": [
+            53,
+            54,
+            5243230
+        ],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -21.854393005371095,
+            "value1": -1.0000033378601075,
+            "value2": -22.1999454498291
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.42261824011802676,
+            "value2": 0.0,
+            "value3": 0.9063078165054321
+        },
+        "scale": {
+            "value0": 10.0,
+            "value1": 10.0,
+            "value2": 10.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 50.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 93323265,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 4294967295,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "bee/assets/models/quad.obj",
+        "texturePath": "PaintGame/assets/Breda.png",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -19.899999618530275,
+            "value1": 15.0,
+            "value2": 30.881860733032228
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.7071067094802856,
+            "value2": 0.0,
+            "value3": 0.7071068286895752
+        },
+        "scale": {
+            "value0": 5.0,
+            "value1": 2.0,
+            "value2": 1.000000238418579
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 89.98021697998047,
+            "value2": 0.0
+        }
+    },
+    "entityID": 6295081,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Floor",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -43.0,
+            "value1": 8.0,
+            "value2": 31.0
+        },
+        "rotation": {
+            "value0": 0.4998778998851776,
+            "value1": 0.5001220703125,
+            "value2": -0.5001220107078552,
+            "value3": 0.4998779594898224
+        },
+        "scale": {
+            "value0": 10.000003814697266,
+            "value1": 1.0000005960464478,
+            "value2": 10.00000286102295
+        },
+        "rotationEuler": {
+            "value0": -90.0,
+            "value1": 89.9720230102539,
+            "value2": 180.0
+        }
+    },
+    "entityID": 6293926,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Floor",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -32.0,
+            "value1": 8.0,
+            "value2": 20.0
+        },
+        "rotation": {
+            "value0": 0.7071066498756409,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 0.70710688829422
+        },
+        "scale": {
+            "value0": 10.0,
+            "value1": 1.000000238418579,
+            "value2": 10.00000286102295
+        },
+        "rotationEuler": {
+            "value0": 89.99998474121094,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 5246184,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Floor",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -21.0,
+            "value1": 8.0,
+            "value2": 31.0
+        },
+        "rotation": {
+            "value0": 0.4998778998851776,
+            "value1": 0.5001220703125,
+            "value2": -0.5001220107078552,
+            "value3": 0.4998779594898224
+        },
+        "scale": {
+            "value0": 10.000003814697266,
+            "value1": 1.0000005960464478,
+            "value2": 10.00000286102295
+        },
+        "rotationEuler": {
+            "value0": -90.0,
+            "value1": 89.9720230102539,
+            "value2": 180.0
+        }
+    },
+    "entityID": 8391970,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Floor",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -32.0,
+            "value1": 8.0,
+            "value2": 42.0
+        },
+        "rotation": {
+            "value0": 0.7071066498756409,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 0.70710688829422
+        },
+        "scale": {
+            "value0": 10.0,
+            "value1": 1.0000001192092896,
+            "value2": 10.000001907348633
+        },
+        "rotationEuler": {
+            "value0": 89.99998474121094,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 7343192,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Floor",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -32.0,
+            "value1": -0.9990000128746033,
+            "value2": 31.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 10.0,
+            "value1": 1.0,
+            "value2": 10.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 80,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": true,
+    "Disabled": {
+        "disabled": false
+    },
+    "hasComponent_Emitter": true,
+    "Emitter": {
+        "specs": {
+            "lifetime": 0.699999988079071,
+            "spawnCountPerSecond": 60.0,
+            "maxParticles": 100,
+            "active": true,
+            "loop": false,
+            "burst": true,
+            "coneSpecs": {
+                "angle": 90.0,
+                "debugDraw": false
+            },
+            "useWorldSpace": false
+        },
+        "particleSpecs": {
+            "startSize": 0.20000000298023225,
+            "endSize": 0.0,
+            "sizeEase": 3,
+            "randomStartRotation": true,
+            "startRotation": {
+                "value0": 0.0,
+                "value1": 0.0,
+                "value2": 0.0
+            },
+            "randomRotate": false,
+            "rotationSpeed": 1.0,
+            "randomColor": false,
+            "multiplyColor": true,
+            "multiplyColorGradient": {
+                "value0": [
+                    0.5
+                ],
+                "value1": [
+                    {
+                        "value0": 1.0,
+                        "value1": 0.800000011920929,
+                        "value2": 0.0,
+                        "value3": 1.0
+                    }
+                ]
+            },
+            "addColor": false,
+            "addColorGradient": {
+                "value0": [],
+                "value1": []
+            },
+            "randomVelocity": true,
+            "drawVelocity": false,
+            "startVelocity": 6.0,
+            "acceleration": {
+                "value0": 0.0,
+                "value1": -9.800000190734864,
+                "value2": 0.0
+            },
+            "randomLifetime": true,
+            "startLifeTime": 0.20000000298023225,
+            "minLifetime": 0.20000000298023225,
+            "maxLifetime": 0.699999988079071
+        }
+    },
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "PaintSplashPrefab",
+        "parent": 4294967295,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "bee/assets/models/sphere.obj",
+        "texturePath": "bee/assets/textures/white.png",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": false,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -2.498361825942993,
+            "value1": 0.15465101599693299,
+            "value2": 1.5088965892791749
+        },
+        "rotation": {
+            "value0": 0.7071066498756409,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 0.70710688829422
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.000000238418579,
+            "value2": 1.0000004768371583
+        },
+        "rotationEuler": {
+            "value0": 89.99998474121094,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 81,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": true,
+    "Disabled": {
+        "disabled": false
+    },
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "BulletPrefab",
+        "parent": 4294967295,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "bee/assets/models/sphere.obj",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 1.0,
+            "value1": 0.800000011920929,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": true,
+    "Rigidbody": {
+        "velocity": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        },
+        "acceleration": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        }
+    },
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -0.0000014901161193847657,
+            "value1": 5.5,
+            "value2": -5.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 0.10000000149011612,
+            "value1": 0.10000000149011612,
+            "value2": 0.10000000149011612
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 82,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": true,
+    "GltfNode": {
+        "meshId": 0,
+        "name": "blasterB"
+    },
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "blasterB",
+        "parent": 83,
+        "children": [
+            48,
+            49,
+            50,
+            51
+        ],
+        "selectParent": true
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 83,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": true,
+    "GltfScene": {
+        "path": "PaintGame/assets/blasterB.glb",
+        "name": ""
+    },
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Gun",
+        "parent": 94,
+        "children": [
+            82,
+            95
+        ],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.4760913848876953,
+            "value1": -0.15851163864135743,
+            "value2": -0.4999999701976776
+        },
+        "rotation": {
+            "value0": -4.371138828673793e-8,
+            "value1": 1.0,
+            "value2": -4.371138828673793e-8,
+            "value3": 1.910685465164705e-15
+        },
+        "scale": {
+            "value0": 1.0000008344650269,
+            "value1": 1.0,
+            "value2": 1.0000008344650269
+        },
+        "rotationEuler": {
+            "value0": 180.0,
+            "value1": 0.0,
+            "value2": 180.0
+        }
+    },
+    "entityID": 84,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/Grids/gridWhite+512.png",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 4.978682041168213,
+            "value1": 0.83432936668396,
+            "value2": 6.058077812194824
+        },
+        "rotation": {
+            "value0": 0.10024727880954743,
+            "value1": 0.8916168212890625,
+            "value2": 0.3693198263645172,
+            "value3": -0.24201825261116029
+        },
+        "scale": {
+            "value0": 2.3000025749206545,
+            "value1": 3.000000238418579,
+            "value2": 1.0000005960464478
+        },
+        "rotationEuler": {
+            "value0": 135.0,
+            "value1": -30.372629165649415,
+            "value2": 180.0
+        }
+    },
+    "entityID": 85,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/Grids/gridWhite+512.png",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -5.647668361663818,
+            "value1": 2.8343253135681154,
+            "value2": 6.342016220092773
+        },
+        "rotation": {
+            "value0": 4.189796804583614e-15,
+            "value1": 0.9407171010971069,
+            "value2": 3.4604410859001698e-15,
+            "value3": 0.3391921818256378
+        },
+        "scale": {
+            "value0": 2.3000006675720217,
+            "value1": 3.0,
+            "value2": 1.0000001192092896
+        },
+        "rotationEuler": {
+            "value0": 180.0,
+            "value1": 39.65533447265625,
+            "value2": 180.0
+        }
+    },
+    "entityID": 86,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/Grids/gridWhite+512.png",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 5.267054080963135,
+            "value1": 0.8343250751495361,
+            "value2": -6.042201995849609
+        },
+        "rotation": {
+            "value0": 4.189796804583614e-15,
+            "value1": 0.9407171010971069,
+            "value2": 3.4604402388672225e-15,
+            "value3": 0.3391921818256378
+        },
+        "scale": {
+            "value0": 2.3000006675720217,
+            "value1": 1.0,
+            "value2": 1.000000238418579
+        },
+        "rotationEuler": {
+            "value0": 180.0,
+            "value1": 39.65533447265625,
+            "value2": 180.0
+        }
+    },
+    "entityID": 87,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/Grids/gridWhite+512.png",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -4.979432106018066,
+            "value1": 1.0429503917694092,
+            "value2": -4.919883728027344
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.3854604661464691,
+            "value2": 0.0,
+            "value3": 0.9227243661880493
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 45.344661712646487,
+            "value2": 0.0
+        }
+    },
+    "entityID": 88,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Level",
+        "parent": 4294967295,
+        "children": [
+            89,
+            87,
+            86,
+            85,
+            84,
+            97,
+            30,
+            105,
+            107,
+            108,
+            111,
+            99,
+            96,
+            120,
+            98,
+            102,
+            7343192,
+            8391970,
+            5246184,
+            6293926,
+            6295081,
+            4195323,
+            100,
+            103,
+            123,
+            1048677,
+            1048698,
+            1048700,
+            1048697
+        ],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 89,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Floor",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": -0.8999996185302734,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 10.0,
+            "value1": 1.0,
+            "value2": 10.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 90,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": true,
+    "DirectionalLight": {
+        "color": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 0.501960813999176
+        }
+    },
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Directional Light",
+        "parent": 4294967295,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": -0.4884129762649536,
+            "value1": 0.3911057412624359,
+            "value2": 0.11701992899179459,
+            "value3": 0.7712298035621643
+        },
+        "scale": {
+            "value0": 1.000002145767212,
+            "value1": 1.000003457069397,
+            "value2": 1.0000032186508179
+        },
+        "rotationEuler": {
+            "value0": -71.84831237792969,
+            "value1": 45.85445785522461,
+            "value2": -16.82044219970703
+        }
+    },
+    "entityID": 91,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Scene Data",
+        "parent": 4294967295,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": false,
+    "hasComponent_Renderable": false,
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": true,
+    "SceneData": {
+        "skyColor": {
+            "value0": [
+                0.49000000953674319,
+                0.5,
+                0.5299999713897705,
+                0.75
+            ],
+            "value1": [
+                {
+                    "value0": 0.6200000047683716,
+                    "value1": 0.6200000047683716,
+                    "value2": 0.6200000047683716,
+                    "value3": 1.0
+                },
+                {
+                    "value0": 0.9259999990463257,
+                    "value1": 0.9629999995231628,
+                    "value2": 1.0,
+                    "value3": 1.0
+                },
+                {
+                    "value0": 0.32499998807907107,
+                    "value1": 0.5440000295639038,
+                    "value2": 0.8970000147819519,
+                    "value3": 1.0
+                },
+                {
+                    "value0": 0.3409999907016754,
+                    "value1": 0.47099998593330386,
+                    "value2": 0.6779999732971191,
+                    "value3": 1.0
+                }
+            ]
+        },
+        "ambientColor": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 0.5
+        }
+    },
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 92,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Player",
+        "parent": 4294967295,
+        "children": [
+            94
+        ],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 9.0,
+            "value1": 2.5,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 0.0
+        },
+        "scale": {
+            "value0": 0.9999992847442627,
+            "value1": 1.0000007152557374,
+            "value2": 0.9999982118606567
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 89.98021697998047,
+            "value2": 0.0
+        }
+    },
+    "entityID": 93,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": true,
+    "Disabled": {
+        "disabled": false
+    },
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "PaintImagePrefab",
+        "parent": 4294967295,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "PaintGame/assets/splash.obj",
+        "texturePath": "bee/assets/textures/white.png",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 14.579533576965332,
+            "value1": 0.0,
+            "value2": 1.0766773223876954
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0000003576278687,
+            "value2": 1.0000003576278687
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 94,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": true,
+    "Camera": {
+        "fov": 45.0,
+        "aspectRatio": 1.5789474248886109,
+        "nearClip": 0.5,
+        "farClip": 100.0,
+        "orthographic": false,
+        "orthoSize": 10.0,
+        "renderMode": 0
+    },
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "PlayerView",
+        "parent": 92,
+        "children": [
+            83
+        ],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": 0.8381490707397461,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 95,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Barrel",
+        "parent": 83,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.00033462047576904297,
+            "value1": 0.03934335708618164,
+            "value2": 0.19174331426620484
+        },
+        "rotation": {
+            "value0": 3.552804311325857e-15,
+            "value1": -3.352676358758799e-8,
+            "value2": 3.759746691495841e-13,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 0.999976634979248,
+            "value1": 0.9999992847442627,
+            "value2": 0.9999732971191406
+        },
+        "rotationEuler": {
+            "value0": 4.07119921542326e-13,
+            "value1": -0.000003841884335997747,
+            "value2": 4.308352286042094e-11
+        }
+    },
+    "entityID": 96,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Floor",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 19.5,
+            "value1": -19.0,
+            "value2": -20.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 10.0,
+            "value1": 1.0,
+            "value2": 10.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 97,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/white.png",
+        "multiplier": {
+            "value0": 0.9333333373069763,
+            "value1": 0.4470588266849518,
+            "value2": 0.0784313753247261,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -15.0,
+            "value1": 2.0,
+            "value2": -2.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0030077535193413498,
+            "value2": 0.0,
+            "value3": 0.9999954700469971
+        },
+        "scale": {
+            "value0": 0.9999998807907105,
+            "value1": 1.0,
+            "value2": 2.999999761581421
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.34466367959976199,
+            "value2": 0.0
+        }
+    },
+    "entityID": 98,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Floor",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 19.5,
+            "value1": -10.0,
+            "value2": -9.0
+        },
+        "rotation": {
+            "value0": 0.7071066498756409,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 0.70710688829422
+        },
+        "scale": {
+            "value0": 10.0,
+            "value1": 1.000000238418579,
+            "value2": 10.00000286102295
+        },
+        "rotationEuler": {
+            "value0": 89.99998474121094,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 99,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/white.png",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -1.0,
+            "value1": -0.8999999761581421,
+            "value2": -40.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 2.0,
+            "value1": 1.0,
+            "value2": 30.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 53,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": true,
+    "GltfNode": {
+        "meshId": 0,
+        "name": "building_C"
+    },
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "building_C",
+        "parent": 52,
+        "children": [],
+        "selectParent": true
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 100,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/white.png",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -4.0,
+            "value1": 2.0999999046325685,
+            "value2": -40.0
+        },
+        "rotation": {
+            "value0": -8.231959558457902e-11,
+            "value1": 8.23195608901095e-11,
+            "value2": -0.7071067690849304,
+            "value3": 0.7071067690849304
+        },
+        "scale": {
+            "value0": 2.000000238418579,
+            "value1": 1.000000238418579,
+            "value2": 30.0
+        },
+        "rotationEuler": {
+            "value0": -1.3340460291999534e-8,
+            "value1": -3.1805547185895105e-15,
+            "value2": -90.0
+        }
+    },
+    "entityID": 102,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Floor",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 30.5,
+            "value1": -10.0,
+            "value2": -20.0
+        },
+        "rotation": {
+            "value0": 0.4998778998851776,
+            "value1": 0.5001220703125,
+            "value2": -0.5001220107078552,
+            "value3": 0.4998779594898224
+        },
+        "scale": {
+            "value0": 10.000003814697266,
+            "value1": 1.0000005960464478,
+            "value2": 10.00000286102295
+        },
+        "rotationEuler": {
+            "value0": -90.0,
+            "value1": 89.9720230102539,
+            "value2": 180.0
+        }
+    },
+    "entityID": 103,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/white.png",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 2.0,
+            "value1": 2.0999999046325685,
+            "value2": -40.0
+        },
+        "rotation": {
+            "value0": -8.231959558457902e-11,
+            "value1": 8.23195608901095e-11,
+            "value2": -0.7071067690849304,
+            "value3": 0.7071067690849304
+        },
+        "scale": {
+            "value0": 2.000000238418579,
+            "value1": 1.000000238418579,
+            "value2": 30.0
+        },
+        "rotationEuler": {
+            "value0": -1.3340460291999534e-8,
+            "value1": -3.1805547185895105e-15,
+            "value2": -90.0
+        }
+    },
+    "entityID": 30,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/Grids/gridWhite+512.png",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -2.190366744995117,
+            "value1": 4.117825031280518,
+            "value2": 12.74366569519043
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.3854604661464691,
+            "value2": 0.0,
+            "value3": 0.9227243661880493
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 45.344661712646487,
+            "value2": 0.0
+        }
+    },
+    "entityID": 105,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/Grids/gridWhite+512.png",
+        "multiplier": {
+            "value0": 0.7683397531509399,
+            "value1": 0.4805831015110016,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 3.309633255004883,
+            "value1": 4.117825031280518,
+            "value2": 13.24366569519043
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0030077530536800625,
+            "value2": 0.0,
+            "value3": 0.9999954700469971
+        },
+        "scale": {
+            "value0": 1.0000001192092896,
+            "value1": 1.0,
+            "value2": 1.0000001192092896
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.3446636199951172,
+            "value2": 0.0
+        }
+    },
+    "entityID": 4195323,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Floor",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -32.0,
+            "value1": 19.0,
+            "value2": 31.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 10.0,
+            "value1": 1.0,
+            "value2": 10.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 107,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/Grids/gridWhite+512.png",
+        "multiplier": {
+            "value0": 0.3430386781692505,
+            "value1": 0.01365510281175375,
+            "value2": 0.88416987657547,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -2.190366744995117,
+            "value1": 4.117825031280518,
+            "value2": 18.74366569519043
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.3854604661464691,
+            "value2": 0.0,
+            "value3": 0.9227243661880493
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 45.344661712646487,
+            "value2": 0.0
+        }
+    },
+    "entityID": 108,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/Grids/gridWhite+512.png",
+        "multiplier": {
+            "value0": 0.7039375305175781,
+            "value1": 0.003413788741454482,
+            "value2": 0.88416987657547,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 3.309633255004883,
+            "value1": -0.8821749687194824,
+            "value2": 19.243663787841798
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0030077530536800625,
+            "value2": 0.0,
+            "value3": 0.9999954700469971
+        },
+        "scale": {
+            "value0": 1.0000001192092896,
+            "value1": 1.0,
+            "value2": 1.0000001192092896
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.3446636199951172,
+            "value2": 0.0
+        }
+    },
+    "entityID": 54,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 12.0,
+            "value1": 22.0,
+            "value2": 12.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "CollisionBox",
+        "parent": 52,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 1.1920928955078126e-7,
+            "value1": 1.2000000476837159,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 123,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/white.png",
+        "multiplier": {
+            "value0": 0.9333333373069763,
+            "value1": 0.4470588266849518,
+            "value2": 0.0784313753247261,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -15.0,
+            "value1": 4.0,
+            "value2": -4.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.003007753985002637,
+            "value2": 0.0,
+            "value3": 0.9999954700469971
+        },
+        "scale": {
+            "value0": 0.9999997615814209,
+            "value1": 1.0,
+            "value2": 0.9999998211860657
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.34466373920440676,
+            "value2": 0.0
+        }
+    },
+    "entityID": 111,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "3D Mesh",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "bee/assets/textures/Grids/gridWhite+512.png",
+        "multiplier": {
+            "value0": 0.26034194231033327,
+            "value1": 0.9111968874931336,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -2.190366744995117,
+            "value1": -0.8821749687194824,
+            "value2": 12.74366569519043
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.3854604661464691,
+            "value2": 0.0,
+            "value3": 0.9227243661880493
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 45.344661712646487,
+            "value2": 0.0
+        }
+    },
+    "entityID": 1048677,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Floor",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 8.5,
+            "value1": -10.0,
+            "value2": -20.0
+        },
+        "rotation": {
+            "value0": 0.4998778998851776,
+            "value1": 0.5001220703125,
+            "value2": -0.5001220107078552,
+            "value3": 0.4998779594898224
+        },
+        "scale": {
+            "value0": 10.000003814697266,
+            "value1": 1.0000005960464478,
+            "value2": 10.00000286102295
+        },
+        "rotationEuler": {
+            "value0": -90.0,
+            "value1": 89.9720230102539,
+            "value2": 180.0
+        }
+    },
+    "entityID": 120,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Floor",
+        "parent": 88,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 19.5,
+            "value1": -10.0,
+            "value2": -31.0
+        },
+        "rotation": {
+            "value0": 0.7071067094802856,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 0.7071068286895752
+        },
+        "scale": {
+            "value0": 10.0,
+            "value1": 1.0000003576278687,
+            "value2": 10.000003814697266
+        },
+        "rotationEuler": {
+            "value0": 89.99999237060547,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 5243230,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 20.0,
+            "value1": 1.0,
+            "value2": 20.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "CollisionBox",
+        "parent": 52,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 1.1920928955078126e-7,
+            "value1": 0.05000000074505806,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 2097265,
+    "hasComponent_BoxCollider": true,
+    "BoxCollider": {
+        "isTrigger": false,
+        "size": {
+            "value0": 2.0,
+            "value1": 2.0,
+            "value2": 2.0
+        }
+    },
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": true,
+    "GltfScene": {
+        "path": "PaintGame/assets/Earth/Earth.gltf",
+        "name": "Scene"
+    },
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Earth",
+        "parent": 4294967295,
+        "children": [
+            1048694
+        ],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 19.3416748046875,
+            "value1": 5.499879360198975,
+            "value2": 10.67001724243164
+        },
+        "rotation": {
+            "value0": -0.17593297362327577,
+            "value1": 0.3398444652557373,
+            "value2": 0.42473965883255007,
+            "value3": 0.8204569220542908
+        },
+        "scale": {
+            "value0": 2.9999897480010988,
+            "value1": 2.999988317489624,
+            "value2": 3.000014543533325
+        },
+        "rotationEuler": {
+            "value0": -0.0000024148366719600746,
+            "value1": 45.00001525878906,
+            "value2": 54.74000549316406
+        }
+    },
+    "entityID": 1048694,
+    "hasComponent_BoxCollider": false,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": true,
+    "GltfNode": {
+        "meshId": 0,
+        "name": "Cube"
+    },
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": "Cube",
+        "parent": 2097265,
+        "children": [],
+        "selectParent": true
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_Rigidbody": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        }
+    }
+}

@@ -1,0 +1,423 @@
+{
+    "entityCount": 6,
+    "entityID": 15728641,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": true,
+    "CanvasElement": {
+        "anchor": 8
+    },
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": " Image",
+        "parent": 1048579,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "bee/editor/assets\\models/quad.obj",
+        "texturePath": "MazeGame\\assets\\Jacco_Bikker.jpg",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": false
+    },
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -1.0000019073486329,
+            "value1": 0.9999995231628418,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 1048578,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": true,
+    "CanvasElement": {
+        "anchor": 0
+    },
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": " Image",
+        "parent": 1048579,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "bee/editor/assets\\models/quad.obj",
+        "texturePath": "MazeGame\\assets\\Jacco_Bikker.jpg",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": false
+    },
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.9999980926513672,
+            "value1": -1.0000004768371583,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 1048579,
+    "hasComponent_Camera": true,
+    "Camera": {
+        "fov": 45.0,
+        "aspectRatio": 0.7415035963058472,
+        "nearClip": -1.0,
+        "farClip": 100.0,
+        "orthographic": true,
+        "orthoSize": 10.0,
+        "renderMode": 0
+    },
+    "hasComponent_Canvas": true,
+    "Canvas": {
+        "padding": 0
+    },
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": " Canvas",
+        "parent": 4294967295,
+        "children": [
+            1048578,
+            15728641
+        ],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 23.713361740112306,
+            "value1": 0.025280475616455079,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": -0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 1048580,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": " Scene Data",
+        "parent": 4294967295,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": false,
+    "hasComponent_Renderable": false,
+    "hasComponent_SceneData": true,
+    "SceneData": {
+        "skyColor": {
+            "value0": [
+                0.49000000953674319,
+                0.5,
+                0.5299999713897705,
+                0.75
+            ],
+            "value1": [
+                {
+                    "value0": 0.6200000047683716,
+                    "value1": 0.6200000047683716,
+                    "value2": 0.6200000047683716,
+                    "value3": 1.0
+                },
+                {
+                    "value0": 0.9259999990463257,
+                    "value1": 0.9629999995231628,
+                    "value2": 1.0,
+                    "value3": 1.0
+                },
+                {
+                    "value0": 0.32499998807907107,
+                    "value1": 0.5440000295639038,
+                    "value2": 0.8970000147819519,
+                    "value3": 1.0
+                },
+                {
+                    "value0": 0.3409999907016754,
+                    "value1": 0.47099998593330386,
+                    "value2": 0.6779999732971191,
+                    "value3": 1.0
+                }
+            ]
+        },
+        "ambientColor": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 0.0
+        }
+    },
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 1048581,
+    "hasComponent_Camera": false,
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": " 3D Mesh",
+        "parent": 4294967295,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": true,
+    "Renderable": {
+        "meshPath": "",
+        "texturePath": "",
+        "multiplier": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0,
+            "value3": 1.0
+        },
+        "tint": {
+            "value0": 1.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "visible": true,
+        "billboard": false,
+        "receiveShadows": true
+    },
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        },
+        "rotation": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0,
+            "value3": 1.0
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 1.0,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": 0.0,
+            "value1": 0.0,
+            "value2": 0.0
+        }
+    },
+    "entityID": 1048582,
+    "hasComponent_Camera": true,
+    "Camera": {
+        "fov": 47.400001525878909,
+        "aspectRatio": 0.6838310956954956,
+        "nearClip": 0.10000000149011612,
+        "farClip": 100.0,
+        "orthographic": false,
+        "orthoSize": 10.0,
+        "renderMode": 0
+    },
+    "hasComponent_Canvas": false,
+    "hasComponent_CanvasElement": false,
+    "hasComponent_Cell": false,
+    "hasComponent_DirectionalLight": false,
+    "hasComponent_Disabled": false,
+    "hasComponent_Emitter": false,
+    "hasComponent_GltfNode": false,
+    "hasComponent_GltfScene": false,
+    "hasComponent_HierarchyNode": true,
+    "HierarchyNode": {
+        "name": " Camera",
+        "parent": 4294967295,
+        "children": [],
+        "selectParent": false
+    },
+    "hasComponent_PointLight": false,
+    "hasComponent_Raycastable": true,
+    "Raycastable": {
+        "raycastable": true
+    },
+    "hasComponent_Renderable": false,
+    "hasComponent_SceneData": false,
+    "hasComponent_TileGrid": false,
+    "hasComponent_Transform": true,
+    "Transform": {
+        "position": {
+            "value0": -2.187591791152954,
+            "value1": 1.7984191179275513,
+            "value2": 6.418625831604004
+        },
+        "rotation": {
+            "value0": -0.131826251745224,
+            "value1": -0.17088477313518525,
+            "value2": -0.02307727001607418,
+            "value3": 0.9761596918106079
+        },
+        "scale": {
+            "value0": 1.0,
+            "value1": 0.9999998807907105,
+            "value2": 1.0
+        },
+        "rotationEuler": {
+            "value0": -15.382048606872559,
+            "value1": -19.858964920043947,
+            "value2": -2.2693909329518648e-7
+        }
+    }
+}

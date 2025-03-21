@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_PropertySheetDisplayName>BEE Game PC</_PropertySheetDisplayName>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <Link>
+      <AdditionalDependencies>bee.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>@echo off
+echo "test" &gt; NUL
+xcopy /y /d /c "$(SolutionDir)bee\external\Superluminal\PerformanceAPI.dll" "$(OutDir)" &gt; NUL
+xcopy /y /d /c "$(SolutionDir)bee\external\fmod\lib\fmod$(FMODSuffix).dll" "$(OutDir)" &gt; NUL
+xcopy /y /d /c "$(SolutionDir)bee\external\fmod\lib\fmodstudio$(FMODSuffix).dll" "$(OutDir)" &gt; NUL
+
+xcopy /y /d /c /e /i "$(SolutionDir)bee\assets" "$(OutDir)\bee\assets" &gt; NUL
+xcopy /y /d /c /e /i "$(SolutionDir)bee\editor" "$(OutDir)\editor" &gt; NUL
+xcopy /y /d /c /e /i "$(ProjectDir)assets" "$(OutDir)$(ProjectName)\assets" &gt; NUL
+xcopy /y /d /c /e /i "$(ProjectDir)save" "$(OutDir)$(ProjectName)\save" &gt; NUL</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+</Project>
