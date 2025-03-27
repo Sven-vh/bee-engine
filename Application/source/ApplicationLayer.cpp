@@ -351,3 +351,9 @@ bool ApplicationLayer::OnKeyPressed(bee::KeyPressedEvent& e)
 }
 
 bool ApplicationLayer::OnMouseButtonPressed(bee::MouseButtonPressedEvent& ) { return false; }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

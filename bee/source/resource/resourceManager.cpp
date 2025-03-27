@@ -238,3 +238,8 @@ template Ref<bee::resource::GltfModel> bee::resource::CreateResource<bee::resour
 // 24.38s second time
 // 15.65
 // 15.5
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

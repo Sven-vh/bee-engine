@@ -261,3 +261,9 @@ ImVec2 bee::ImGuiHelper::GetMaxImageSize(const float imageWidth, const float ima
 
     return final_size;
 }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

@@ -5,3 +5,8 @@ bee::Input* bee::Input::Create()
 {
     return new bee::InputPc();
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

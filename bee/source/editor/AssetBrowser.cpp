@@ -146,3 +146,8 @@ void AssetBrowser::LoadAssets(const std::vector<std::filesystem::path>& paths)
         LoadAsset(path);
     }
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

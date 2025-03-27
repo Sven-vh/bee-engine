@@ -249,3 +249,9 @@ void bee::OpenGLDevice::HideCursor(bool state) const
 }
 
 bool bee::OpenGLDevice::IsCursorHidden() const { return glfwGetInputMode(m_window, GLFW_CURSOR) == GLFW_CURSOR_DISABLED; }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

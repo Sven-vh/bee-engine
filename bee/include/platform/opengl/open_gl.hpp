@@ -24,3 +24,9 @@ inline void InitDebugMessages() {}
 #endif
 void LabelGL(GLenum type, GLuint name, const std::string& label);
 }  // namespace bee
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

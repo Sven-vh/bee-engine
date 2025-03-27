@@ -27,3 +27,8 @@ private:
     static bool IsBinaryGLTF(const fs::path& path);
 };
 }  // namespace bee::resource
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

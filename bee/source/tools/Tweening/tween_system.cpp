@@ -30,3 +30,9 @@ void bee::Tweener::RemoveTween(const TweenRef& tween)
 {
     tweens.erase(std::remove(tweens.begin(), tweens.end(), tween), tweens.end());
 }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

@@ -48,3 +48,8 @@ const T* GetAttributeData(const tinygltf::Accessor& accessor, const tinygltf::Mo
     return reinterpret_cast<const T*>(&buffer.data[bufferView.byteOffset + accessor.byteOffset]);
 }
 }  // namespace bee::resource
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

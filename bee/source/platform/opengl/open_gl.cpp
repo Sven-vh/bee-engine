@@ -238,3 +238,9 @@ void bee::LabelGL(GLenum type, GLuint name, const std::string& label)
     const std::string temp = "[" + typeString + ":" + std::to_string(name) + "] " + label;
     glObjectLabel(type, name, static_cast<GLsizei>(temp.length()), temp.c_str());
 }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

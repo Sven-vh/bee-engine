@@ -151,3 +151,9 @@ void Gameplay::ShowLongestPath()
         renderable.tint = glm::vec4(0, 1, 0, 1);
     }
 }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

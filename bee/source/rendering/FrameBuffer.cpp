@@ -13,3 +13,8 @@ Ref<FrameBuffer> bee::FrameBuffer::Create(const FrameBufferSettings& settings)
     return nullptr;
 #endif
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

@@ -15,3 +15,8 @@ public:
     static bool DrawLine(glm::vec3 start, glm::vec3 end, glm::vec4 color);
 };  // namespace shapes
 }  // namespace bee
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

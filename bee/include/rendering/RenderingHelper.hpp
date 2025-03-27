@@ -14,3 +14,8 @@ glm::mat4 LookToPosition(const glm::mat4& original,
 glm::mat4 LookToPosition(const glm::vec3& original, const glm::vec3& lookAtPos);
 }  // namespace helper
 }  // namespace bee
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

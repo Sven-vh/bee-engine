@@ -38,3 +38,9 @@ void bee::resource::Texture::OnImGuiRender()
         }
     }
 }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

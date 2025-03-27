@@ -89,3 +89,9 @@ std::vector<std::string> SplitString(const std::string& input, const std::string
 std::string FormatWithCommas(int value);
 
 }  // namespace bee
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

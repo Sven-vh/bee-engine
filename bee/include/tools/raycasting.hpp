@@ -35,3 +35,8 @@ HitInfo IntersectRayWithEntity(const Ray& ray, const glm::mat4& transform, const
 
 };  // namespace raycasting
 }  // namespace bee
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

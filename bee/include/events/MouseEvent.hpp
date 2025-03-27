@@ -78,3 +78,8 @@ public:
     EVENT_CLASS_TYPE(MouseButtonReleased)
 };
 }  // namespace bee
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

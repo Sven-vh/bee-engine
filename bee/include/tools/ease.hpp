@@ -103,3 +103,9 @@ inline T easeLerp(const T& a, const T& b, float t, EaseType easeType)
 }
 
 }  // namespace bee
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

@@ -39,3 +39,8 @@ protected:
 #ifdef BEE_PLATFORM_PC
 #pragma warning(pop)
 #endif
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

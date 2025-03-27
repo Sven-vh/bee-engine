@@ -21,3 +21,8 @@ public:
     static std::string LogEntityChanges(const std::string& beforeStr, const std::string& afterStr);
 };
 }  // namespace bee
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

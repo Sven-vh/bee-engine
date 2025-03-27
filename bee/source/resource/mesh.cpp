@@ -42,3 +42,9 @@ void bee::resource::Mesh::OnImGuiRender()
     ImVec2 size = bee::ImGuiHelper::GetMaxImageSize((float)settings.Width, (float)settings.Height);
     ImGui::Image((void*)frameBuffer->GetColorAttachmentRendererID(), size, ImVec2(0, 1), ImVec2(1, 0));
 }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

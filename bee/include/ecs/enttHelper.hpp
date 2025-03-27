@@ -92,3 +92,8 @@ std::vector<entt::entity> GetEntitiesWithComponent(const entt::registry& registr
 }  // namespace bee::ecs
 
 #endif  // BEE_ENTT_HELPER_HPP
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

@@ -90,3 +90,8 @@ fs::path bee::FileDialog::SaveFile(const char* filter)
     }
     return fs::path();
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

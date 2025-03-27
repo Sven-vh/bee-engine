@@ -28,3 +28,9 @@ glm::mat4 bee::helper::LookToPosition(const glm::vec3& original, const glm::vec3
     glm::mat4 rotationToCamera = glm::lookAt(original, lookAtPos, glm::vec3(0.0f, 1.0f, 0.0f));
     return rotationToCamera;
 }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

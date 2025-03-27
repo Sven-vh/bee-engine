@@ -72,3 +72,9 @@ std::string bee::FormatWithCommas(int value)
     ss << std::fixed << value;
     return ss.str();
 }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

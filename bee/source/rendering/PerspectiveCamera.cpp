@@ -128,3 +128,8 @@ void bee::PerspectiveCamera::RecalculateViewMatrix()
     m_viewMatrix = glm::inverse(transform);
     m_viewProjectionMatrix = m_projectionMatrix * m_viewMatrix;
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

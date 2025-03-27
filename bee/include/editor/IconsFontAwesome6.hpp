@@ -2722,3 +2722,9 @@
 #define ICON_FA_WREATH "\xef\x9f\xa2"                                          // U+f7e2
 #define ICON_FA_WRENCH_SIMPLE "\xee\x8b\x8c"                                   // U+e2cc
 #define ICON_FA_XMARK_TO_SLOT "\xef\x9d\xb1"                                   // U+f771
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

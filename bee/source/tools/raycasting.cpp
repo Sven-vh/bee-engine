@@ -92,3 +92,8 @@ bee::raycasting::HitInfo bee::raycasting::IntersectRayWithEntity(const Ray& ray,
 {
     return ray.IntersectTransform(transform, glm::vec3(-0.5f) * scaler, glm::vec3(0.5f) * scaler);
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

@@ -8,12 +8,12 @@ public:
     {
         float speed = 0.0f;
         float maxSpeed = 5.0f;               // Max speed in units/second
-        float acceleration = 5.0f;            // Acceleration in units/second²
-        float deceleration = 4.0f;            // Deceleration in units/second² (reverse)
-        float friction = 3.0f;                // Friction for slowing down in units/second²
+        float acceleration = 5.0f;            // Acceleration in units/second
+        float deceleration = 4.0f;            // Deceleration in units/second (reverse)
+        float friction = 3.0f;                // Friction for slowing down in units/second
         float maxSteeringAngle = 3.0f;        // Max steering angle in radians (approx. 28.6 degrees)
         float steerSpeed = 10.0f;             // Steering speed in radians/second
-        float brakePower = 4.0f;              // Braking force in units/second²
+        float brakePower = 4.0f;              // Braking force in units/second
         float steeringAngle = 0.0f;           // Current steering angle
         float minSpeedForSteering = 0.1f;     // Min speed to allow steering
         float returnToCenterSpeed = 4.0f;     // How quickly the steering returns to center in radians/second
@@ -85,3 +85,8 @@ private:
     void UpdateCarVisual();
     void HandleInput(float deltaTime);
 };
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

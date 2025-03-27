@@ -186,3 +186,9 @@ std::vector<std::string> bee::FileIO::GetFilesInDirectory(Directory type, const 
 #else
 uint64_t FileIO::LastModified(Directory, const fs::path&) { return 0; }
 #endif  // BEE_PLATFORM_PC
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

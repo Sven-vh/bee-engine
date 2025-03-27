@@ -137,3 +137,8 @@ bool bee::ColorGradient::OnImGuiRender()
 
     return changed;  // Return the change flag
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

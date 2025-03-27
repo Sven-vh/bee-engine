@@ -82,3 +82,9 @@ entt::entity bee::loadEntity(entt::registry& registry, const fs::path& filename)
 
     return newEntity;
 }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

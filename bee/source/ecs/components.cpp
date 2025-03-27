@@ -341,3 +341,9 @@ float bee::Camera::SmallestDepthDifference() const
     bee::Log::Info("Smallest depth difference: {0}", smallestDepthDifference);
     return smallestDepthDifference;
 }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

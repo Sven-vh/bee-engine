@@ -91,3 +91,9 @@ static inline glm::vec3 RandomDirectionInCone(const glm::vec3& direction, const 
     return glm::normalize(randomDir);
 }
 }  // namespace bee
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

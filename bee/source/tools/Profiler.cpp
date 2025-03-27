@@ -153,3 +153,9 @@ void bee::profiler::OnImGuiRender()
 }
 
 bee::profiler::time_t bee::profiler::now() { return NOW; }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

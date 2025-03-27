@@ -589,3 +589,8 @@ std::string bee::ComponentManager::CleanTypeName(const std::string& type_name)
 
     return cleaned_name;
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

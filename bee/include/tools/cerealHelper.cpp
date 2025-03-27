@@ -43,3 +43,8 @@ std::string bee::CerealHelper::LogEntityChanges(const std::string& beforeStr, co
     std::cout << "Changes detected: " << buffer.GetString() << std::endl;
     return buffer.GetString();
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

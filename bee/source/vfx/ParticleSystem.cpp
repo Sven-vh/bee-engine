@@ -435,3 +435,8 @@ void bee::ParticleManager::CreateEmitter(Emitter emitter, entt::entity entity)
         registry.emplace<Emitter>(entity, emitter);
     }
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

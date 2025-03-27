@@ -354,3 +354,9 @@ void CarGame::Brake(entt::entity& player, float deltaTime)
         if (playerComponent.speed > 0) playerComponent.speed = 0;
     }
 }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

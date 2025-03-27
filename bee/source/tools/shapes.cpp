@@ -251,3 +251,8 @@ bool bee::DebugRenderer::DrawLine(glm::vec3 start, glm::vec3 end, glm::vec4 colo
     xsr::render_debug_line(glm::value_ptr(start), glm::value_ptr(end), glm::value_ptr(color));
     return true;
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

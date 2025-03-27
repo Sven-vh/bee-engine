@@ -473,3 +473,8 @@ void bee::ecs::RenderEntity(entt::registry& registry, entt::entity entity, const
     // Unbind the framebuffer
     frameBuffer->Unbind();
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

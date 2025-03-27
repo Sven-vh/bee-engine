@@ -6,3 +6,8 @@ bee::Device* bee::Device::Create()
 {
     return new bee::OpenGLDevice();
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

@@ -23,3 +23,8 @@ private:
     void LoadAsset(const std::filesystem::path& path);
     void LoadAssets(const std::vector<std::filesystem::path>& paths);
 };
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

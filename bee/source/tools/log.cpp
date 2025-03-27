@@ -18,3 +18,9 @@ void bee::Log::Initialize()
     Log::Info("                   ");
     Log::Info("BUAS Example Engine");
 }
+
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

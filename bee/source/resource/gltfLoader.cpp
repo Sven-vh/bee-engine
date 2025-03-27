@@ -516,3 +516,8 @@ std::tuple<glm::vec4, glm::vec4> bee::resource::GetMaterialColors(const tinygltf
 
     return {multiplier, tint};
 }
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/

@@ -13,3 +13,8 @@ static std::uniform_int_distribution<uint64_t> s_UniformDistribution;
 //UUID::UUID(uint64_t uuid) : m_UUID(uuid) {}
 
 }  // namespace bee
+
+
+/*
+Read license.txt on root or https://github.com/Sven-vh/bee-engine/blob/main/license.txt
+*/
