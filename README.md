@@ -1,6 +1,8 @@
 # bee-engine
 Cross-platform game engine for both PC &amp; PS5.
 
+Read more about it on my portfolio: https://www.svenvh.nl/article/Block-2A.html
+
 ## Demo Games
 There are 3 projects included in this repo. Each of them is made with my own Engine API.
 
